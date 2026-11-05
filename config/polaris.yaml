@@ -1,0 +1,3 @@
+# Polaris policy overrides are optional; start with the upstream defaults.
+# https://polaris.docs.fairwinds.com/customization/configuration/
+checks: {}
