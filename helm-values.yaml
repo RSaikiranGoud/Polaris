@@ -1,0 +1,5 @@
+dashboard:
+  enable: true
+  replicas: 1
+webhook:
+  enable: false
